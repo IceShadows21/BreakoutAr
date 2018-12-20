@@ -1,0 +1,2 @@
+QRCode: 14,9cm de large (sur le word/pdf fourni)
+Manette: 5,26

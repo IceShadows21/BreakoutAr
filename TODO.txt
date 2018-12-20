@@ -1,0 +1,2 @@
+-Importer la BD Vuforia (les Targets) avec les dimensions correctes
+-Ajouter la clé de licence Vuforia
