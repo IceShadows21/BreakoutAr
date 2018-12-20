@@ -1,2 +1,3 @@
 -Importer la BD Vuforia (les Targets) avec les dimensions correctes
 -Ajouter la clé de licence Vuforia
+-Assigner les bonnes images aux ImageTargets
